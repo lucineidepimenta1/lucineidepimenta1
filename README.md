@@ -2,7 +2,7 @@
 
 <!--
 **lucineidepimenta1/lucineidepimenta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Github Logo] (IMG_20180121_123519225](https://user-images.githubusercontent.com/89945603/151065483-18dde252-80ce-48d1-a549-0f6bb332d037.jpg))
+
 
 Here are some ideas to get you started:
 
