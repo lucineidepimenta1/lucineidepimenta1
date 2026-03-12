@@ -9,5 +9,3 @@ No doutorado, pretende expandir o SIREEDU como plataforma escalável e inteligen
 Possui Mestrado em Inovação Tecnológica pela Universidade Federal de São Paulo (2025). É especialista em Uso Educacional da Internet pela Universidade Federal de Lavras (2024) e graduada em Tecnologia em Informática pela Universidade do Estado de Minas Gerais (2005). 
 -----
 
-
-
